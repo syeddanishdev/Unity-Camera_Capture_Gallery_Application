@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7E5C3CF0-3747-C0FF-ABC3-6595B249A234}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NativeCam.cs">
+    <Files>
+      <File FileName="Assets/CameraManager.cs" Line="68" Column="11" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" />
+      <File FileName="Assets/TutorialInfo/Scripts/Readme.cs" />
+      <File FileName="Assets/Plugins/NativeCamera/README.txt" />
+      <File FileName="Assets/NativeCam.cs" Line="6" Column="2" />
+      <File FileName="Assets/Timer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhotoCapture" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a7146d8c-75f9-4e02-a6dd-f969c4755255" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
